@@ -1,0 +1,62 @@
+﻿{
+  "@@locale": "tr",
+  "appTitle": "Foodie",
+
+  "onbHeight": "Boy (cm)",
+  "onbWeight": "Kilo (kg)",
+  "onbContinue": "Devam",
+
+  "homeCaloriesConsumed": "Alınan kalori",
+  "homeRemaining": "Kalan",
+  "homeCaloriesBurned": "Yakılan kalori",
+  "homeProtein": "Protein",
+  "homeCarbohydrate": "Karbonhidrat",
+  "homeFat": "Yağ",
+
+  "mealsBreakfast": "Kahvaltı",
+  "mealsLunch": "Öğle",
+  "mealsDinner": "Akşam",
+  "mealsSnacks": "Atıştırmalıklar",
+
+  "addItemsComingSoon": "Öğe ekleme yakında",
+  "addDemoKcal": "Demo kcal ekle",
+  "commonComingSoon": "Çok yakında",
+
+  "profileHeight": "Boy",
+  "profileWeight": "Kilo",
+  "profileEdit": "Düzenle",
+  "profileLanguage": "Dil",
+  "languageEnglish": "İngilizce",
+  "languageTurkish": "Türkçe",
+  "profileVersion": "Sürüm",
+  "profileResetOnboarding": "Onboarding’i sıfırla",
+
+  "navHome": "Ana Sayfa",
+  "navSearch": "Ara",
+  "navExercise": "Egzersiz",
+  "navProfile": "Profil",
+
+  "searchHint": "Yiyecek ara (örn. tavuk, menemen)",
+  "searchNoResults": "Sonuç bulunamadı",
+  "searchError": "Veri alınamadı",
+  "searchAdd": "Ekle",
+  "searchRetry": "Tekrar dene",
+  "searchClear": "Temizle",
+  "searchKcal": "{calories} kcal",
+
+  "exerciseTracking": "Egzersiz Takibi",
+  "caloriesBurned": "Yakılan Kalori",
+  "selectExercise": "Egzersiz Seç",
+  "minutes": "Dakika",
+  "min": "dk",
+  "kcal": "kcal",
+  "addExercise": "Egzersiz Ekle",
+  "resetDay": "Günü Sıfırla",
+  "resetDayTitle": "Egzersiz Verilerini Sıfırla",
+  "resetDayConfirm": "Bu işlem bugünkü tüm egzersiz kayıtlarını silecek. Emin misiniz?",
+  "cancel": "İptal",
+  "reset": "Sıfırla",
+  "noExercisesToday": "Bugün kaydedilen egzersiz yok",
+  "addExerciseHint": "Yukarıdan bir egzersiz ekleyerek başlayın"
+}
+

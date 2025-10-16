@@ -1,0 +1,48 @@
+name: foodie
+description: A bilingual diet app for tracking calories and macros
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: 0.20.2          # <-- düzeltildi
+  provider: ^6.1.5+1
+  http: ^1.2.2
+  shared_preferences: ^2.5.3
+  percent_indicator: ^4.2.3
+  uuid: ^4.3.3
+  flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+
+  assets:
+    - assets/images/Foodie-Logo.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/Foodie-Logo.png"
+
+flutter_native_splash:
+  color: "#FFFFFF"                # Arka plan rengi
+  image: assets/images/Foodie-Logo.png
+  android_12:
+    image: assets/images/Foodie-Logo.png
+    color: "#FFFFFF"
+  web: false

@@ -1,0 +1,61 @@
+﻿{
+  "@@locale": "en",
+  "appTitle": "Foodie",
+
+  "onbHeight": "Height (cm)",
+  "onbWeight": "Weight (kg)",
+  "onbContinue": "Continue",
+
+  "homeCaloriesConsumed": "Calories consumed",
+  "homeRemaining": "Remaining",
+  "homeCaloriesBurned": "Calories burned",
+  "homeProtein": "Protein",
+  "homeCarbohydrate": "Carbohydrate",
+  "homeFat": "Fat",
+
+  "mealsBreakfast": "Breakfast",
+  "mealsLunch": "Lunch",
+  "mealsDinner": "Dinner",
+  "mealsSnacks": "Snacks",
+
+  "addItemsComingSoon": "Adding items is coming soon",
+  "addDemoKcal": "Add demo kcal",
+  "commonComingSoon": "Coming soon",
+
+  "profileHeight": "Height",
+  "profileWeight": "Weight",
+  "profileEdit": "Edit",
+  "profileLanguage": "Language",
+  "languageEnglish": "English",
+  "languageTurkish": "Turkish",
+  "profileVersion": "Version",
+  "profileResetOnboarding": "Reset onboarding",
+
+  "navHome": "Home",
+  "navSearch": "Search",
+  "navExercise": "Exercise",
+  "navProfile": "Profile",
+
+  "searchHint": "Search foods (e.g., chicken, menemen)",
+  "searchNoResults": "No results found",
+  "searchError": "Couldn't fetch data",
+  "searchAdd": "Add",
+  "searchRetry": "Retry",
+  "searchClear": "Clear",
+  "searchKcal": "{calories} kcal",
+
+  "exerciseTracking": "Exercise Tracking",
+  "caloriesBurned": "Calories Burned",
+  "selectExercise": "Select Exercise",
+  "minutes": "Minutes",
+  "min": "min",
+  "kcal": "kcal",
+  "addExercise": "Add Exercise",
+  "resetDay": "Reset Day",
+  "resetDayTitle": "Reset Exercise Data",
+  "resetDayConfirm": "This will remove all exercise entries for today. Are you sure?",
+  "cancel": "Cancel",
+  "reset": "Reset",
+  "noExercisesToday": "No exercises recorded today",
+  "addExerciseHint": "Start by adding an exercise above"
+}

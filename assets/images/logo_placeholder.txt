@@ -1,0 +1,4 @@
+This is a placeholder for the logo.png file.
+Please replace this with the actual logo.png file (transparent PNG) as specified in the requirements.
+The logo should be placed at: assets/images/logo.png
+

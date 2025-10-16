@@ -1,0 +1,24 @@
+pluginManagement {
+
+
+    def flutterSdkPath = {
+        def props = new Properties()
+        def file = new File(rootDir, "local.properties")
+        if (file.exists()) file.withReader("UTF-8") { r -> props.load(r) }
+        def path = props.getProperty("flutter.sdk")
+        if (path == null) throw new GradleException("Flutter SDK not found. Define flutter.sdk in local.properties.")
+        return path
+    }()
+
+    includeBuild("${flutterSdkPath}/packages/flutter_tools/gradle")
+}
+
+plugins { id "dev.flutter.flutter-plugin-loader" version "1.0.0" }
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+
+}
+
+rootProject.name = "Foodie-last-try"
+include(":app")
