@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Foodie - Bilingual Diet App
 
 A Flutter-based diet tracking app with bilingual support (English/Turkish).
@@ -140,3 +141,7 @@ The app follows Flutter best practices with:
 ## License
 
 This project is for demonstration purposes.
+=======
+# Foodie
+A Flutter-based calorie &amp; nutrition tracker app.
+>>>>>>> 5f34ee731cded329bfb166da31e61f5b12c899f7
